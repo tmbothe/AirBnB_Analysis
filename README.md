@@ -14,7 +14,7 @@ Analyzing  AirBnB business and understand how it has grown over the years.
 - Download and install a recent version of Python Anaconda distribution 
 - Clone the repository to a local drive and run all files
 
-### Project Motivation < a name="motivation"></a>
+### Project Motivation <a name="motivation"></a>
 
 In this project , I am interested in learning more about the evolution of the AirBnB business in Boston and using the current data to predict the price of a listing.
 
