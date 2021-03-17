@@ -13,6 +13,7 @@ Analyzing  AirBnB business and understand how it has grown over the years.
 ### Installation <a name="installation"></a>
 - Download and install a recent version of Python Anaconda distribution 
 - Clone the repository to a local drive and run all files
+- The dataset is available in the repos but, but it is available on Kaggle and can be downloaded [here](https://www.kaggle.com/search?q=boston+airbnb+in%3Adatasets)
 
 ### Project Motivation <a name="motivation"></a>
 
@@ -25,3 +26,16 @@ In this project , I am interested in learning more about the evolution of the Ai
 5. Can we predict the Booking price ?
 
 ### File Description <a name="files"></a>
+
+There are 2 notebooks in this repository for different purpose:
+- The `AirbnB_Analysis.ipynb` file analyzes different aspects of the AirBnB in Boston and answers most of the questions above.
+- The `Modeling.ipynb` focuses on data modeling, and analyzes all different features that can allow us to predict a  listing booking price.
+- The `.py` files are all functions and steps necessary to perform in order to predict a booking price, all put together.
+
+### Results <a name="results"></a>
+
+My findings can be found [here]().
+
+### Licensing, Authors, Acknowledgements<a name="licensing"></a>
+
+You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/search?q=boston+airbnb+in%3Adatasets).  
