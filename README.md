@@ -18,8 +18,10 @@ Analyzing  AirBnB business and understand how it has grown over the years.
 
 In this project , I am interested in learning more about the evolution of the AirBnB business in Boston and using the current data to predict the price of a listing.
 
-1- How has the AirbnB business growth or evolution in Boston ?
-2- what are the most popular neigbourhoud ? and what make them popular ?
-3- When is the busiest time for the business ?
-4- What features are most related to the price ?
-5- Booking price prediction
+1- How has the AirbnB business growth or evolution in Boston?
+2- what are the most popular neigbourhoud ? and what make them popular?
+3- When is the busiest time for the business?
+4- What features are most related to the price?
+5- Can we predict the Booking price?
+
+### File Description <a name-"files"></a>
