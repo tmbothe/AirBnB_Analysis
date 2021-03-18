@@ -34,7 +34,7 @@ There are 2 notebooks in this repository for different purpose:
 
 ### Results <a name="results"></a>
 
-My findings can be found [here]().
+My findings can be found [here](https://medium.com/p/980d409a0482).
 
 ### Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
