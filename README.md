@@ -1,5 +1,5 @@
 # AirBnB_Analysis
-Analyzing  AirBnB business and understand how it has grown over the years. 
+Analyzing  AirBnB business and understand how it has grown over the years. I have anlyzed the Airbnb Boston dataset from 2008 to 2016. The dataset has listings activities for hosts and reviews from guests who visited the city during that period. The dataset has 3585 distinct listings.
 
 
 #### Table of Contents
@@ -27,10 +27,13 @@ In this project , I am interested in learning more about the evolution of the Ai
 
 ### File Description <a name="files"></a>
 
-There are 2 notebooks in this repository for different purpose:
-- The `AirbnB_Analysis.ipynb` file analyzes different aspects of the AirBnB in Boston and answers most of the questions above.
-- The `Modeling.ipynb` focuses on data modeling, and analyzes all different features that can allow us to predict a  listing booking price.
-- The `.py` files are all functions and steps necessary to perform in order to predict a booking price, all put together.
+There are 1 notebooks in this repository for different purpose:
+- The `AirbnB_Analysis.ipynb`: file analyzes different aspects of the AirBnB in Boston and answers most of the questions above.
+- The `data_utils.py` : files are all functions and steps necessary to perform in order to predict a booking price, all put together.
+- The `data` folder has the cvs files used in this analysis
+    - reviews.csv  : unique id for each reviewer and detailed comments
+    - listings.csv : Listings, including full descriptions and average review score
+    - calendar.csv : including listing id and the price and availability for that day
 
 ### Results <a name="results"></a>
 
